@@ -1,0 +1,66 @@
+{
+  "faqs": [
+    {
+      "question": "What is Premier Tickets?",
+      "answer": "Preimer Tickets is an online ticketing platform that allows users to book tickets for movies, events, plays, sports, and more."
+    },
+    {
+      "question": "Do I need an account to book tickets?",
+      "answer": "Yes, creating an account helps you manage your bookings, receive notifications, and access exclusive offers."
+    },
+    {
+      "question": "What types of events can I book on Preimer Tickets?",
+      "answer": "You can book tickets for movies, live concerts, plays, stand-up comedy, sports events, and even online streaming shows."
+    },
+    {
+      "question": "How do I book a ticket?",
+      "answer": "Choose your event or movie, select your city, venue, date, and time, pick your seats, and complete the payment process."
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "Preimer Tickets accepts credit/debit cards, UPI, net banking, wallets like Paytm and PhonePe, and gift vouchers."
+    },
+    {
+      "question": "Can I cancel my ticket after booking?",
+      "answer": "Cancellation is allowed only for select movies and events. Check the cancellation policy before booking."
+    },
+    {
+      "question": "How do I get a refund for a canceled ticket?",
+      "answer": "If eligible, your refund will be automatically processed to the original payment method within 5–7 working days."
+    },
+    {
+      "question": "What if an event is postponed or canceled?",
+      "answer": "In such cases, you'll be notified, and refunds or rescheduling options will be provided based on the organizer's policy."
+    },
+    {
+      "question": "Do I need to carry a printed ticket?",
+      "answer": "No, most venues accept e-tickets or QR codes shown on your phone. Check your confirmation email for specific details."
+    },
+    {
+      "question": "Can I transfer my ticket to someone else?",
+      "answer": "Transferability depends on the event organizer. Please check the terms before booking."
+    },
+    {
+      "question": "How can I contact Preimer Tickets support?",
+      "answer": "You can reach customer support through live chat on the website/app, or email support@PreimerTickets.com."
+    },
+    {
+      "question": "Are there any offers or promo codes available?",
+      "answer": "Yes, you can find various offers and promo codes on the 'Offers' page or during checkout."
+    },
+    {
+      "question": "Can I book tickets for a group or private screening?",
+      "answer": "Yes, group bookings and private screenings can be arranged by contacting our bulk booking team through the website."
+    },
+    {
+      "question": "Is there a loyalty or rewards program?",
+      "answer": "Yes, Preimer Tickets sometimes partners with loyalty programs or banks for exclusive deals and cashback offers."
+    },
+    {
+      "question": "Can I book tickets in advance for upcoming releases?",
+      "answer": "Yes, advance booking is available for select upcoming movies and events. Keep an eye on our 'Coming Soon' section."
+    }
+  ]
+}
+ 
+ 
